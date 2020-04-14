@@ -1,4 +1,4 @@
-def Say_Hello(name="Kent", name="Beck")
-  puts "Hello #{name} #{name}!"
+def Say_Hello(a="Kent", b="Beck")
+  puts "Hello #{a} #{b}!"
 end
 Say_Hello("Kent, "Beck")
