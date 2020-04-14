@@ -1,3 +1,3 @@
-def Say_Hello(Gabriela)
+def Say_Hello(name="Gabriela")
   puts "Hello, #{name}"!
 end
